@@ -18,5 +18,5 @@ def count(self):
         temp = temp.next
     return i
 
-linkedlist.displayElements = display
+linkedlist.display = displayElements
 linkedlist.count = count
