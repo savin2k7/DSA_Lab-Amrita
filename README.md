@@ -1,8 +1,7 @@
-# DSA_Lab
-```
 Directory structure:
-└── savin2k7-dsa_lab-amrita/
+└── dsa_lab-amrita/
     ├── README.md
+    ├── DSA_Report.odt
     ├── Week 1/
     │   ├── 1.py
     │   ├── 2.py
@@ -28,11 +27,17 @@ Directory structure:
     ├── Week 5/
     │   ├── StackArr.py
     │   └── StackLL.py
-    └── Week 6/
-        ├── CircularQueue/
-        │   ├── CircQueueArr.py
-        │   └── CircQueueLL.py
-        └── Queue/
-            ├── QueueAr.py
-            └── QueueLL.py
-```
+    ├── Week 6/
+    │   ├── CircularQueue/
+    │   │   ├── CircQueueArr.py
+    │   │   └── CircQueueLL.py
+    │   └── Queue/
+    │       ├── QueueAr.py
+    │       └── QueueLL.py
+    ├── Week 7/
+    │   ├── BinaryTreeArr.py
+    │   └── BinaryTreeLL.py
+    ├── Week 8/
+    │   └── BinarySearchTree.py
+    └── Week 9/
+        └── AVLTree.py
