@@ -1,3 +1,4 @@
+```
 Directory structure:
 └── dsa_lab-amrita/
     ├── README.md
@@ -43,3 +44,4 @@ Directory structure:
     │   └── AVLTree.py
     └── Week 10/
         └── Hashing.py
+```
