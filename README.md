@@ -39,5 +39,7 @@ Directory structure:
     │   └── BinaryTreeLL.py
     ├── Week 8/
     │   └── BinarySearchTree.py
-    └── Week 9/
-        └── AVLTree.py
+    ├── Week 9/
+    │   └── AVLTree.py
+    └── Week 10/
+        └── Hashing.py
